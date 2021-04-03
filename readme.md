@@ -10,6 +10,10 @@ This script:
 
 ## Install
 
+- Download the repo
+- Open a terminal and go to the project folder
+- Type:
+
 ```
 python3 -m venv env
 source env/bin/activate
