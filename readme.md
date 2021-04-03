@@ -1,6 +1,6 @@
 # This script takes a png and turns it into a *.icns file
 
-![logo](https://github.com/madeinouweland/create-macos-icns/blob/master/logo.png){:width="200px"}
+<img src="https://github.com/madeinouweland/create-macos-icns/blob/master/logo.png" width="200px"/>
 
 This script:
 
