@@ -1,5 +1,7 @@
 # This script takes a png and turns it into a *.icns file
 
+![logo](https://github.com/madeinouweland/create-macos-icns/blob/master/logo.png)
+
 This script:
 
 - loads icon.png
